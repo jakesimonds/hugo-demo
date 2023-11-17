@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+
+theme = 'paper'
+
+[params]
+    color = 'linen'
+    github = 'jakesimonds'
+    linkedin = 'jake-simonds'
+    name = 'Jake Simonds'
+    bio = 'Hello'
+
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menu.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+[[menu.main]]
+    name = 'Projects'
+    identifier = "projects"
+    url = "/projects"  # Or you can leave it empty
+    weight = 30

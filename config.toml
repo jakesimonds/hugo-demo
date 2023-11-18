@@ -1,17 +1,14 @@
 baseURL = 'localhost:1313'
 languageCode = 'en-us'
 
-theme = 'paper'
+theme = 'hugo-paper'
 
 [params]
     color = 'linen'
     github = 'jakesimonds'
     linkedin = 'jake-simonds'
-
-    
     name = 'Jake Simonds'
     bio = 'Hello'
-    avatar = 'https://gravatar.com/jakesimonds'
 
 
 [menu]

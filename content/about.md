@@ -8,4 +8,7 @@ draft = false
 
 !["me"](/img/me.jpg)
 
-I am a very junior software individual. Portland, ME. I love the Boston Celtics, learning spanish, and lossy compression.
+Portland, ME based software person. Student at the Roux. 
+
+Always down to meet new people especially in Portland, ME. Be in touch! 
+jakesimonds@gmail.com

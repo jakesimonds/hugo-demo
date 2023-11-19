@@ -1,7 +1,7 @@
 baseURL = 'localhost:1313'
 languageCode = 'en-us'
 
-theme = 'paper'
+theme = 'hugo-paper'
 
 [params]
     color = 'linen'
@@ -26,5 +26,5 @@ theme = 'paper'
 [[menu.main]]
     name = 'Projects'
     identifier = "projects"
-    url = "/projects"  # Or you can leave it empty
+    pageRef = '/projects'
     weight = 30

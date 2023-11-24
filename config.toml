@@ -8,7 +8,9 @@ theme = 'hugo-paper'
     github = 'jakesimonds'
     linkedin = 'jake-simonds'
     name = 'Jake Simonds'
-    bio = 'Hello'
+    bio = 'Hi!'
+
+    avatar = 'https://gravatar.com/jakesimonds'
 
 
 [menu]

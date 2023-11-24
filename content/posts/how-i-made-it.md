@@ -2,7 +2,7 @@
 title = 'How I made this site'
 date = 2023-10-22T12:21:09-04:00
 draft = false
-description = "THis is my description for How I made it"
+description = "Contemporaneous notes from the initial build of this site"
 +++
 
 

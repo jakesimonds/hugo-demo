@@ -2,7 +2,7 @@
 title = 'Github Annotated'
 date = 2023-11-19T12:21:40-05:00
 draft = false
-description = 'this is my description!!! github annotated'
+description = 'looking back at ~2 years of "getting into tech" '
 +++
 
 

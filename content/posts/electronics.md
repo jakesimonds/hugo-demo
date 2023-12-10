@@ -37,7 +37,7 @@ Taking this dinky camera around, feeling a little self-conscious about its hipst
 
 !["keyboard"](/img/Keyboards2.jpg)
 
-So this is the Ghost Piano. Was a while when I was buying toy keyboards when they popped up at the goodwill with an eye towards circuit bending. Ran into a couple issues. 1: lack of patience. 2: fear of breathing in lead fumes while soldering. 
+So this is the Ghost Piano. Was a while when I was buying toy keyboards when they popped up at the goodwill with an eye towards circuit bending. Never got around to circuit bending because 1: lack of patience & 2: fear of breathing in lead fumes while soldering. 
 
 Have had some fun with just a long-ish male-to-male wire, taking apart these and other keyboards and then just exploring creating new circuits and seeing what happens. 
 

@@ -7,4 +7,4 @@ description= 'A Few Quick Informed Thoughts'
 
 April Fools!!!!!!!!!!!!!!!!!!!
 
-I have nothing to add to the conversation.
+I have nothing to add to the conversation. It's very interesting, though! 

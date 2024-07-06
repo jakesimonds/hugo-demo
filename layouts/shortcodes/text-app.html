@@ -1,0 +1,53 @@
+<div id="app">
+    <input v-model="inputText" placeholder="Enter text">
+    <button @click="getText">Submit</button>
+    <div v-html="formattedResult"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+new Vue({
+    el: '#app',
+    data: {
+        inputText: '',
+        result: {}
+    },
+    computed: {
+        formattedResult() {
+            if (!this.result.length) return '';
+            try {
+                // Log the result before processing
+                console.log('Result array:', this.result);
+                
+                return this.result.map(item => `<p>${item}</p>`).join('');
+            } catch (e) {
+                console.error('Error processing result:', e);
+                return 'Invalid result format';
+            }
+        }
+    },
+    methods: {
+        async getText() {
+            try {
+                const response = await axios.post('https://54.145.73.101:8000/query', { text: this.inputText });
+                //const response = await axios.post('http://192.168.40.149:8000/query', { text: this.inputText });
+                console.log('Full server response:', response);
+
+                // Check if the result is an array
+                if (Array.isArray(response.data.result[0])) {
+                    console.log("ARRAAAAAAYYYYYY")
+                    this.result = response.data.result[0];
+                } else {
+                    console.error('Unexpected result format:', response.data.result);
+                    this.result = 'Invalid result format';
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                this.result = 'An error occuuuuuurred';
+            }
+        }
+        
+    }
+});
+</script>

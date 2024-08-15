@@ -13,7 +13,7 @@ http://latenthomer.com is a very simple semantic search web app I built to teach
 
 ## How I'd explain embeddings to myself six months ago
 
-Let's imagine you have an old-fashioned store where you sit at a counter & people you for things.  One day somebody comes in and asks if you have a 'toque,' or anything like it. You know you don't have it, but how can you know if you have anything like it?
+Let's imagine you have an old-fashioned store where you sit at a counter & people come in and ask you for things.  One day somebody comes in and asks if you have a 'toque,' or anything like it. You know you don't have it, but how can you know if you have anything like it?
 
 Suddenly you have this idea. You close the store for the afternoon, tape some butcher paper to the wall of your warehouse, and draw a HUGE two-dimensional graph. On the **x-axis** you label, **Weight**. **Y-axis - Price**. You then go through your entire inventory, weighing and noting the price of everything you have for sale. You end up with a graph that looks something like this:
 

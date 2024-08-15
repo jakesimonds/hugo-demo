@@ -7,7 +7,7 @@ draft = false
 
 ## Embeddings are Dope
 
-!["diagram"](/img/latentHomer.png)
+!["diagram"](/img/latent_homer.png)
 
 http://latenthomer.com is a very simple semantic search web app I built to teach myself about embeddings. The way it works is, I generated embeddings for one-sentence descriptions of 70 Simpsons characters and am storing them in a ChromaDB instance. You can go to the site, describe a person ((or type or person, i.e. '*bad houseguest*', *'classic personality hire'*, *'silly elderly man'*...) or literally just input any string at all) and it'll generate an embedding for your string, and then query my collection of character descriptions for matches based on cosine similarity.
 

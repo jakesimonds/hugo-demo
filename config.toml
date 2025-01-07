@@ -1,4 +1,4 @@
-baseURL = 'https://jakesimonds.github.io/'
+baseURL = "/"  # or "http://localhost:1313/"
 languageCode = 'en-us'
 
 theme = 'hugo-paper'

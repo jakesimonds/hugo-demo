@@ -8,7 +8,4 @@ draft = false
 
 !["me"](/img/me.jpg)
 
-
-I'm on [bluesky](https://bsky.app/profile/jakesimonds.bsky.social) and others. 
-
 jakesimonds@gmail.com

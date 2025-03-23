@@ -11,7 +11,9 @@ theme = 'hugo-paper'
     
     name = 'Jake Simonds'
     bio = 'Hello'
-    avatar = 'https://gravatar.com/jakesimonds'
+
+    # Direct image link format for Imgur
+    avatar = 'https://imgur.com/yMxh4fk.jpg'
 
 
 [menu]
@@ -23,8 +25,3 @@ theme = 'hugo-paper'
     name = 'About'
     pageRef = '/about'
     weight = 20
-[[menu.main]]
-    name = 'Projects'
-    identifier = "projects"
-    pageRef = '/projects'
-    weight = 30

@@ -42,7 +42,7 @@ A historical example: There was an Important Computer called the  [DEC PDP-11](h
 
 Digital Equipment Corporation Programmed Data Processor. 
 
-No mention of 'compter'. Why? Because even back then (maybe especially back then) 'computer' was a dirty word that people associated with incredibly expensive, hard to work, frustrating machines. So if you wanted to sell computers, or get your boss to buy you a computer, it helped to not call it computer!
+No mention of 'computer'. Why? Because even back then (maybe especially back then) 'computer' was a dirty word that people associated with incredibly expensive, hard to work, frustrating machines. So if you wanted to sell computers, or get your boss to buy you a computer, it helped to not call it computer!
 
 A personal example: My worst day at work, or in school, in terms of what it feels like qualitatively is really not that different from when I was a kid and I couldn't get a printer to connect. Or video editing in 2007. 
 

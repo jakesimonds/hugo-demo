@@ -41,6 +41,8 @@ I've done weird things that at the time I didn't realize were weird...like set u
   
 ChatGPT dropped ~1 year into my 'getting into tech.' I'm realizing more and more that my experiences learning (& learning to love) computer stuff will very soon be unremarkable and incredibly normal, but today make me a very different species of developer than the people I work with.  
   
-I feel like a guy in a T-rex costume standing around at a party where everyone else is dressed normally, and it's 8:45, and around 9 is when the rest of the people in the dinosaur costumes are expected to show up.
+I feel like a guy in a T-rex costume standing around at a party where everyone else is dressed normally and it's 8:45, and around 9 is when the rest of the people in the dinosaur costumes are expected to show up.
 
-I feel confident that very soon my experiences will be very normal, but right now I'm a weirdo. And I equally confident that in this coming world where I'm normal, it's gonna be a much weirder world. 
+I feel bet-my-life confident that very soon my experiences will be very normal, but right now I'm a weirdo. And I'm equally confident that in this coming world where I'm normal, the world is gonna be a much stranger place. 
+
+Hold on to your butts! 

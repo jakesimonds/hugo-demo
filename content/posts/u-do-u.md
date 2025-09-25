@@ -8,11 +8,11 @@ draft = false
 
 # Problem
 
-Something I find a bit depressing about the world we're living in is that **self-discipline / restraint / superhuman focus** is insanely important.
+Something I find a bit depressing about the world we're living in: **self-discipline / restraint / superhuman focus** is insanely important.
 
-Temperamentally, I'm not the biggest fan of self-restraint. I think people who are really good at self-restraint tend to be boring, and my favorite kind of friend is the kind that will drop everything to go do something fun & stupid. I don't know that I'm right in this view, but I see a continuum of open-to-the-world on one end, and self-restraining / in-charge / methodical on the other. And I greatly prefer the open-to-the-world camp. 
+Temperamentally, I'm not the biggest fan of self-restraint. I think people who are really good at self-restraint tend to be boring, and my favorite kind of friend is the kind that will drop everything to go do something fun & stupid. I don't know that I'm right in this view, but I see a continuum of open-to-the-world on one end, and self-restraining / in-charge / methodical on the other. I greatly prefer the open-to-the-world camp. 
 
-But on the internet in 2025, you just...kinda...can't...be...open to the world and curious? Or you can, but if you do so naively you're just going to end up distracted and pulled in a thousand different directions, and never accomplishing anything. 
+But on the internet in 2025, you just...kinda...can't...be...open to the world and curious? Or you can, but if you do so naively you're just going to end up distracted and unpleasantly pulled in a thousand different directions. 
 
 # My Solution
 
@@ -25,7 +25,13 @@ It then saves whatever you stated as your intention, and that's it. You can then
 
 ![u-do-u JSON export](/img/u-do-u-json.png)
 
-I thought about also saving your chrome history, so an LLM could potentially then give you a grade on how 'on focus' you stayed but I haven't done that and might not. Just as-is I've been appreciating this chrome extension, and I don't know that I want to complicate it any more. What I like about it right now is it's just a small, subtle reminder--a volition pump. I am finding that the pop up catches me unawares and sometimes I really don't know why I just opened a browser tab. It's clarified that there is no particular online activity that makes me feel not so great, but rather the surfing without any particular strong intention that doesn't always feel so good (and more importantly: is a crazy time suck). 
+I thought about also saving your chrome history, so an LLM could potentially then give you a grade on how 'on focus' you stayed but I haven't done that yet. I might not.
+
+ Just as-is I've been appreciating this chrome extension, and I don't know that I want to complicate it any more. What I like about it right now is it's just a small, subtle reminder--**a volition pump.** 
+ 
+ I am finding that the pop up catches me unawares. Sometimes I open the browser off of muscle memory, and when given a fraction-of-a-second to reflect I realize that...I actually maybe don't have anything I need to visit the internet for! 
+ 
+ It's also clarified that there is no particular online activity that makes me feel not so great, but rather the surfing without any particular strong intention that doesn't always feel so good (and more importantly: is a crazy time suck). An alternate title for the blog post was: **The right amount of time to spend on facebook is 3 Hours (every six months)**
 
 
 # This is intentionally Just For Me (but feel free to use it)
@@ -39,6 +45,7 @@ There's things I don't love about this habit, though:
 **1:** higher bar to do anything. 
 
 **2:** can get in-my-head while making things since there's an implicit 'This is gonna be public and represent you'
+
 **3:** nobody ends up using my stuff anyways (or visiting my side-project sites) and I end up feeling like I 'failed'. 
 
-So here, I am embracing what I'm calling **'Roll Your Own' Era**. With LLMs, making basically disposable software to solve specific problems. 
+So here, I am embracing the **'Roll Your Own' Era**: using LLMs to make basically disposable software. 

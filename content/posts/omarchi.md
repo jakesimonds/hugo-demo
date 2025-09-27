@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-![screenshot!](/img/omarchy.png)
+![screenshot!](/img/omarchi.png)
 
 (Just configuring things on new OS)
 

@@ -1,7 +1,7 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
-draft = false
+title = 'Self Driving Wish List'
+date = 2025-09-28T11:17:19-04:00
+draft = true
 
 
 # 1. make post on bluesky linking to blogpost (off of localhost URL, but real)
@@ -12,3 +12,5 @@ draft = false
 # postid = "your-post-id"
 
 +++
+
+

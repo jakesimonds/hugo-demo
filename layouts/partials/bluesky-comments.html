@@ -1,0 +1,14 @@
+{{- if .Params.bluesky -}}
+{{- if and .Params.bluesky.did .Params.bluesky.postid (not (eq .Params.comments false)) -}}
+
+<!-- Bluesky Comments CSS -->
+<link rel="stylesheet" href="{{ "css/bluesky-comments.css" | relURL }}">
+
+<!-- Bluesky Comments Container -->
+<div id="bluesky-comments" data-did="{{ .Params.bluesky.did }}" data-post-id="{{ .Params.bluesky.postid }}"></div>
+
+<!-- Bluesky Comments JavaScript -->
+<script src="{{ "js/bluesky-comments.js" | relURL }}"></script>
+
+{{- end -}}
+{{- end -}}

@@ -25,3 +25,14 @@ theme = 'hugo-paper'
     name = 'About'
     pageRef = '/about'
     weight = 20
+[[menu.main]]
+    name = 'Calendly'
+    identifier = "Chat"
+    url = "https://calendly.com/jakesimonds/30min" 
+    weight = 40
+[[menu.main]]
+    name = 'Info'
+    url = '#'
+    weight = 25
+    [menu.main.params]
+        modal_trigger = true

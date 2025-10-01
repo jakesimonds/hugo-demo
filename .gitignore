@@ -1,12 +1,19 @@
-# Hugo generated files
+# Hugo
+/public/
+/resources/
 .hugo_build.lock
 
-# macOS
-.DS_Store
+# Node.js
+modal-react/node_modules/
+modal-react/package-lock.json
 
-# Temporary files
-*.tmp
-*.temp
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
 
 # Logs
-*.log 
+*.log
